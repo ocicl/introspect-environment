@@ -1,0 +1,10 @@
+* introspect-environment
+
+This library is intended to allow a bit more compile-time
+introspection of environments in CL.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/Bike/introspect-environment.git |
+| commit  | 8fb20a1                                                |
+| systems | introspect-environment                                 |
+|---------+--------------------------------------------------------|
