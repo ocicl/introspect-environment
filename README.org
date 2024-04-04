@@ -5,6 +5,6 @@ introspection of environments in CL.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/Bike/introspect-environment.git |
-| commit  | 8fb20a1                                                |
+| commit  | 69a50ac                                                |
 | systems | introspect-environment                                 |
 |---------+--------------------------------------------------------|
